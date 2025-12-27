@@ -1,0 +1,33 @@
+td {
+  height: 30px;
+  width: 10px;
+  /* border: 7px solid; */
+}
+td {
+  height: 50px;
+  font-size: 24px;
+  text-align: center;
+  vertical-align: middle;
+  min-width: 50px;
+}
+table,
+td {
+  border-spacing: 0;
+  border-collapse: collapse;
+  border: 2px solid black;
+}
+.white {
+  background-color: white;
+}
+.yellow {
+  background-color: yellow;
+}
+.red {
+  background-color: red;
+}
+.black {
+  background-color: black;
+}
+.blue {
+  background-color: blue;
+}
