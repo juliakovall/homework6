@@ -1,8 +1,16 @@
-td {
+/* td {
   height: 30px;
   width: 10px;
-  /* border: 7px solid; */
+  border: 7px solid;
+} */
+table {
+  min-height: 100px;
+  width: 100vh;
 }
+body {
+  margin: 0;
+}
+
 td {
   height: 50px;
   font-size: 24px;
